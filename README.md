@@ -1,5 +1,5 @@
 [![MasterHead](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)](https://sachinraj.carrd.co/)
-<h1 align="center">Greetings! _Sachin Rajbhar_ here.</h1>
+<h1 align="center">Greetings! <i>Sachin Rajbhar</i> here.</h1>
 <h3 align="center">Software Engineer | Python, Java | Open Source Contributions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1129235/screenshots/11420603/media/3211fa27c5e9392de9465e2d718f2509.gif">
 
