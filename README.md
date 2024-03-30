@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Problem Solving, JavaScript, Java, Python, C++**
 
-- 📫 How to reach me **officialsachin@gmail.com**
+- 📫 How to reach me **officialsachinrajbhar@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/13HkLwGwyZ_dTEDUhRV2yti0xuuIGjKgab93o7riLZtY/edit?usp=drive_link](https://docs.google.com/document/d/13HkLwGwyZ_dTEDUhRV2yti0xuuIGjKgab93o7riLZtY/edit?usp=drive_link)
 
