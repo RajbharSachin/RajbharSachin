@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)](https://sachinraj.carrd.co/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://sachinraj.carrd.co/)
 
 <h1 align="center">Greetings! <i>Sachin Rajbhar</i> here.</h1>
 <h3 align="center">Software Engineer | Python, Java | Open Source Contributions</h3>
