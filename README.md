@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)](https://sachinraj.carrd.co/)
+<!---[![MasterHead](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)](https://sachinraj.carrd.co/)--->
 <h1 align="center">Greetings! <i>Sachin Rajbhar</i> here.</h1>
 <h3 align="center">Software Engineer | Python, Java | Open Source Contributions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1129235/screenshots/11420603/media/3211fa27c5e9392de9465e2d718f2509.gif">
@@ -21,7 +21,18 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/13HkLwGwyZ_dTEDUhRV2yti0xuuIGjKgab93o7riLZtY/edit?usp=drive_link](https://docs.google.com/document/d/13HkLwGwyZ_dTEDUhRV2yti0xuuIGjKgab93o7riLZtY/edit?usp=drive_link)
 
 - ⚡ Fun fact **Drinking Coffee makes me lazy!**
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aqua_g_aming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqua_g_aming" height="30" width="40" /></a>
