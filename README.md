@@ -2,7 +2,7 @@
 ![Grey White Minimalist Twitter Banner](https://github.com/user-attachments/assets/081fb6c5-8588-4a5f-8000-1c847f73c50d)
 
 <h1 align="center">Greetings! <i>Sachin Rajbhar</i> here.</h1>
-<h3 align="center">Software Engineer | Python, Java | 4hr+ Open Source Contributions 5AM-9AM or 5PM-9PM</h3>
+<h3 align="center">Software Engineer | Python, Java | 4Hr+ Open Source Daily 5AM-9AM or 5PM-9PM</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1129235/screenshots/11420603/media/3211fa27c5e9392de9465e2d718f2509.gif">
 
 
