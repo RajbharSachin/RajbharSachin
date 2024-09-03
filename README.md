@@ -1,5 +1,6 @@
 <!---[![MasterHead](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)](https://sachinraj.carrd.co/)--->
-![Grey White Minimalist Twitter Banner](https://github.com/user-attachments/assets/081fb6c5-8588-4a5f-8000-1c847f73c50d)
+![362309622-081fb6c5-8588-4a5f-8000-1c847f73c50d](https://github.com/user-attachments/assets/258b2389-49ca-46af-97dc-65f01fe9d925)
+
 
 <h1 align="center">Greetings! <i>Sachin Rajbhar</i> here.</h1>
 <h3 align="center">Software Engineer | Python, Java | 4Hr+ Open Source Daily 5AM-9AM or 5PM-9PM or 9PM-1AM</h3>
